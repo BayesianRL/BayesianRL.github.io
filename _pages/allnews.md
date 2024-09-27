@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Bayesian Reinforcement Learning"
 sitemap: false
 permalink: /allnews.html
 ---
