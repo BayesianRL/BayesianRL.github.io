@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Bayesian Reinforcement Learing"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Bayesian Reinforcement Learning"
 sitemap: false
 permalink: /
 ---
