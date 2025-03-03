@@ -9,8 +9,8 @@ permalink:        pretty
 title:            'Bayesian RL'
 tagline:          'Bayesian Reinforcement Learning'
 description:      'Probabilistic and Bayesian methods for Reinforcement Learning, The collection of materials related to my thesis'
-url:              https://bayesianrl.github.io/
-baseurl:          /
+url:              https://bayesianrl.github.io
+baseurl:          https://bayesianrl.github.io/
 
 author:
   name:           'Amirabbas Asadi'
