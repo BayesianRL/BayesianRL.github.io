@@ -5,7 +5,6 @@
       "year": "2025",
       "link": "https://arxiv.org/abs/2502.19538",
       "tags": [
-        "Approximate Inference",
         "Probabilistic Programming"
       ]
     },
@@ -127,6 +126,15 @@
       ]
     },
     {
+        "title": "Riemannian Black Box Variational Inference",
+        "authors": "Mykola Lukashchuk, Wouter Nuijten, Dmitry V. Bagaev, Ismail Senoz, Bert de Vries",
+        "year": "2024",
+        "link": "https://openreview.net/pdf?id=QBbc0L5Zpb",
+        "tags": [
+          "Approximate Inference"
+        ]
+    },
+    {
       "title": "Kernel Semi-Implicit Variational Inference",
       "authors": "Ziheng Cheng, Longlin Yu, Tianyu Xie, Shiyue Zhang, Cheng Zhang",
       "year": "2024",
@@ -136,6 +144,15 @@
       ]
     },
     {
+        "title": "Probabilistic Inference in Reinforcement Learning Done Right",
+        "authors": "Jean Tarbouriech, Tor Lattimore, Brendan O'Donoghue",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2311.13294",
+        "tags": [
+          "Reinforcement Learning"
+        ]
+    },
+    {
       "title": "Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box",
       "authors": "Ryan Giordano, Martin Ingram, Tamara Broderick",
       "year": "2023",
@@ -143,6 +160,33 @@
       "tags": [
         "Approximate Inference"
       ]
+    },
+    {
+        "title": "Reactive Probabilistic Programming for Scalable Bayesian Inference",
+        "authors": "Dmitry V. Bagaev",
+        "year": "2023",
+        "link": "https://research.tue.nl/files/313860204/20231219_Bagaev_hf.pdf",
+        "tags": [
+          "Probabilistic Programming", "Approximate Inference"
+        ]
+    },
+    {
+        "title": " Reactive Message Passing for Scalable Bayesian Inference",
+        "authors": "Dmitry V. Bagaev, Bert de Vries",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2112.13251",
+        "tags": [
+          "Probabilistic Programming", "Approximate Inference"
+        ]
+    },
+    {
+        "title": "RxInfer: A Julia package for reactive real-time Bayesian inference",
+        "authors": "Dmitry V. Bagaev, Albert Podusenko, Bert de Vries",
+        "year": "2023",
+        "link": "https://www.theoj.org/joss-papers/joss.05161/10.21105.joss.05161.pdf",
+        "tags": [
+          "Probabilistic Programming", "Approximate Inference"
+        ]
     },
     {
       "title": "GFlowNets and variational inference",
@@ -188,6 +232,24 @@
       "tags": [
         "Approximate Inference", "Probabilistic Programming"
       ]
+    },
+    {
+        "title": "Active inference: demystified and compared",
+        "authors": "Noor Sajid, Philip J. Ball, Thomas Parr, Karl J. Friston",
+        "year": "2019",
+        "link": "https://arxiv.org/abs/1909.10863",
+        "tags": [
+          "Active Inference", "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review",
+        "authors": "Sergey Levine",
+        "year": "2018",
+        "link": "https://arxiv.org/abs/1805.00909",
+        "tags": [
+          "Reinforcement Learning"
+        ]
     },
     {
       "title": "Inference Compilation and Universal Probabilistic Programming",

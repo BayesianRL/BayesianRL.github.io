@@ -5,7 +5,8 @@ sidebar: true
 ---
 
 <h2>Papers</h2>
-🔍 Filter by subject : {% for tag in site.data.papers-tag %} <span data-active="true" data-content="{{tag.name}}" class="paper-tag search-tag">{{ tag.name }}</span> {% endfor %}
+🔍 Filter by subject <br> 
+{% for tag in site.data.papers-tag %} <span data-active="true" data-content="{{tag.name}}" class="paper-tag search-tag">{{ tag.name }}</span> {% endfor %}
 <hr>
 <ul id="papers-list" class="papers-list">
     {% for paper in site.data.papers %}
