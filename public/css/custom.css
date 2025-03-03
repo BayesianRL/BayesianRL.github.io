@@ -25,8 +25,20 @@
     }   
 }
 
-.papers-list{
+.papers-list, .books-list{
     list-style-type: none;
+}
+
+.books-item{
+    display: flex; flex-wrap: wrap;
+}
+.books-img{
+    width: 40%;
+    /* padding: 1rem; */
+}
+.books-description{
+    width: 60%;
+    padding: 1.0rem;
 }
 
 .papers-item{

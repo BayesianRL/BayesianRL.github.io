@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Machine Learning: A Probabilistic Perspective",
+        "authors" : "Kevin P. Murphy",
+        "img" : "public/img/books/pml_murphy.jpg"
+    },
+    {
+        "title": "Pattern Recognition and Machine Learning",
+        "authors" : "Christopher M. Bishop",
+        "img" : "public/img/books/bishop.jpg"
+    },
+    {
+        "title": "Information Theory, Inference and Learning Algorithms",
+        "authors" : "David J. C. MacKay",
+        "img" : "public/img/books/information.jpg"
+    },
+    {
+        "title": "Gaussian Processes for Machine Learning",
+        "authors" : "Carl Edward Rasmussen, Christopher K. I. Williams",
+        "img" : "public/img/books/gp4ml.jpg"
+    },
+    {
+        "title": "An Introduction to Sequential Monte Carlo",
+        "authors" : "Nicolas Chopin , Omiros Papaspiliopoulos",
+        "img" : "public/img/books/SMC.jpg"
+    },
+    {
+        "title": "Monte Carlo Methods",
+        "authors" : "Adrian Barbu , Song-Chun Zhu",
+        "img" : "public/img/books/montecarlo.jpg"
+    },
+    {
+        "title": "Bandit Algorithms",
+        "authors" : " Tor Lattimore, Csaba Szepesvári",
+        "img" : "public/img/books/bandit.jpg"
+    },
+    {
+        "title": "Algorithms for Decision Making",
+        "authors" : "Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray",
+        "img" : "public/img/books/alg4decision.jpg"
+    },
+    {
+        "title": "Reinforcement Learning, second edition: An Introduction",
+        "authors" : "Richard S. Sutton, Andrew G. Barto",
+        "img" : "public/img/books/sutton.jpg"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning: Foundations and Modern Approaches",
+        "authors" : "Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer",
+        "img" : "public/img/books/marl.jpg"
+    },
+    {
+        "title": "Calculus of Variations and Optimal Control Theory: A Concise Introduction",
+        "authors" : "Daniel Liberzon",
+        "img" : "public/img/books/CVOC.jpg"
+    },
+    {
+        "title": "Active Inference: The Free Energy Principle in Mind, Brain, and Behavior",
+        "authors" : "Thomas Parr, Giovanni Pezzulo, Karl J. Friston",
+        "img" : "public/img/books/active_inference.jpg"
+    },
+    {
+        "title": "Foundations of Probabilistic Programming",
+        "authors" : "Gilles Barthe, Joost-Pieter Katoen, Alexandra Silva",
+        "img" : "public/img/books/ppl.jpg"
+    }
+]
