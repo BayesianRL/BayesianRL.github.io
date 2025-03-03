@@ -1,0 +1,25 @@
+.homeitem-display{
+    display: flex; flex-wrap: wrap;
+}
+.homeitem-summary{
+    width: 60%;
+    padding: 1rem;
+    font-size: 0.75rem;
+}
+.homeitem-img{
+    width: 40%;
+}
+.img-person{
+    border-radius: 3rem;
+}
+.homeitem-description{
+    width: 100%;
+}
+@media (max-width: 768px){
+    .homeitem-summary{
+        width: 100%;
+    }
+    .homeitem-img{
+        width: 100%;
+    }   
+}
