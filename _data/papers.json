@@ -1,0 +1,210 @@
+[
+    {
+      "title": "Multi-Language Probabilistic Programming",
+      "authors": "Sam Stites, John M. Li, Steven Holtzen",
+      "year": "2025",
+      "link": "https://arxiv.org/abs/2502.19538",
+      "tags": [
+        "Approximate Inference",
+        "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "Least squares variational inference",
+      "authors": "Yvann Le Fay, Nicolas Chopin, Simon Barthelmé",
+      "year": "2025",
+      "link": "https://arxiv.org/abs/2502.18475",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Adaptive Variational Inference in Probabilistic Graphical Models: Beyond Bethe, Tree-Reweighted, and Convex Free Energies",
+      "authors": "Harald Leisenberger, Franz Pernkopf",
+      "year": "2025",
+      "link": "https://arxiv.org/abs/2502.03341",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Inference Plans for Hybrid Particle Filtering",
+      "authors": "Ellie Y. Cheng, Eric Atkinson, Guillaume Baudart, Louis Mandel, Michael Carbin",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2408.11283",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "Probabilistic Programming with Programmable Variational Inference",
+      "authors": "McCoy R. Becker, Alexander K. Lew, Xiaoyan Wang, Matin Ghavami, Mathieu Huot, Martin C. Rinard, Vikash K. Mansinghka",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2406.15742",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "BlackJAX: Composable Bayesian inference in JAX",
+      "authors": "Alberto Cabezas, Adrien Corenflos, Junpeng Lao, Rémi Louf, Antoine Carnec, Kaustubh Chaudhari, Reuben Cohn-Gordon, Jeremie Coullon, Wei Deng, Sam Duffield, Gerardo Durán-Martín, Marcin Elantkowski, Dan Foreman-Mackey, Michele Gregori, Carlos Iguaran, Ravin Kumar, Martin Lysy, Kevin Murphy, Juan Camilo Orduz, Karm Patel, Xi Wang, Rob Zinkov",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2402.10797",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "EigenVI: score-based variational inference with orthogonal function expansions",
+      "authors": "Diana Cai, Chirag Modi, Charles C. Margossian, Robert M. Gower, David M. Blei, Lawrence K. Saul",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2410.24054",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Batch, match, and patch: low-rank approximations for score-based variational inference",
+      "authors": "Chirag Modi, Diana Cai, Lawrence K. Saul",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2410.22292",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "A theoretical perspective on mode collapse in variational inference",
+      "authors": "Roman Soletskyi, Marylou Gabrié, Bruno Loureiro",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2410.13300",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Variational Inference Using Material Point Method",
+      "authors": "Yongchao Huang",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2407.20287",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Variational Inference via Smoothed Particle Hydrodynamics",
+      "authors": "Yongchao Huang",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2407.09186",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Particle Semi-Implicit Variational Inference",
+      "authors": "Jen Ning Lim, Adam M. Johansen",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2407.00649",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Efficient Mixture Learning in Black-Box Variational Inference",
+      "authors": "Alexandra Hotti, Oskar Kviman, Ricky Molén, Víctor Elvira, Jens Lagergren",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2406.07083",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "You Only Accept Samples Once: Fast, Self-Correcting Stochastic Variational Inference",
+      "authors": "Dominic B. Dayta",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2406.02838",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Kernel Semi-Implicit Variational Inference",
+      "authors": "Ziheng Cheng, Longlin Yu, Tianyu Xie, Shiyue Zhang, Cheng Zhang",
+      "year": "2024",
+      "link": "https://arxiv.org/abs/2405.18997",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box",
+      "authors": "Ryan Giordano, Martin Ingram, Tamara Broderick",
+      "year": "2023",
+      "link": "https://arxiv.org/abs/2304.05527",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "GFlowNets and variational inference",
+      "authors": "Nikolay Malkin, Salem Lahlou, Tristan Deleu, Xu Ji, Edward Hu, Katie Everett, Dinghuai Zhang, Yoshua Bengio",
+      "year": "2022",
+      "link": "https://arxiv.org/abs/2210.00580",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "De-Sequentialized Monte Carlo: a parallel-in-time particle smoother",
+      "authors": "Adrien Corenflos, Nicolas Chopin, Simo S채rkk채",
+      "year": "2022",
+      "link": "https://arxiv.org/abs/2202.02264",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Semi-Symbolic Inference for Efficient Streaming Probabilistic Programming",
+      "authors": "Eric Atkinson, Charles Yuan, Guillaume Baudart, Louis Mandel, Michael Carbin",
+      "year": "2022",
+      "link": "https://arxiv.org/abs/2209.07490",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "Variational Marginal Particle Filters",
+      "authors": "Jinlin Lai, Justin Domke, Daniel Sheldon",
+      "year": "2021",
+      "link": "https://arxiv.org/abs/2109.15134",
+      "tags": [
+        "Approximate Inference"
+      ]
+    },
+    {
+      "title": "Reactive Probabilistic Programming",
+      "authors": "Guillaume Baudart, Louis Mandel, Eric Atkinson, Benjamin Sherman, Marc Pouzet, Michael Carbin",
+      "year": "2019",
+      "link": "https://arxiv.org/abs/1908.07563",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "Inference Compilation and Universal Probabilistic Programming",
+      "authors": "Tuan Anh Le, Atilim Gunes Baydin, Frank Wood",
+      "year": "2016",
+      "link": "https://arxiv.org/abs/1610.09900",
+      "tags": [
+        "Approximate Inference", "Probabilistic Programming"
+      ]
+    },
+    {
+      "title": "Langevin and Hamiltonian based Sequential MCMC for Efficient Bayesian Filtering in High-dimensional Spaces",
+      "authors": "Francois Septier, Gareth W. Peters",
+      "year": "2015",
+      "link": "https://arxiv.org/abs/1504.05715",
+      "tags": [
+        "Approximate Inference"
+      ]
+    }
+  ]

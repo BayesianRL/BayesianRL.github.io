@@ -1,0 +1,24 @@
+---
+layout: page
+title: Resources
+sidebar: true
+---
+
+<h2>Papers</h2>
+🔍 Filter by subject : {% for tag in site.data.papers-tag %} <span data-active="true" data-content="{{tag.name}}" class="paper-tag search-tag">{{ tag.name }}</span> {% endfor %}
+<hr>
+<ul id="papers-list" class="papers-list">
+    {% for paper in site.data.papers %}
+    <li>
+        <div class="papers-item">
+            📔 <a class="paper-title" href="{{ paper.link }}" target="_blank">{{ paper.title }}</a>, {{ paper.year }}
+            <p>📝 <span class="paper-authors">{{ paper.authors }}</span> </p>
+            <p>
+                {% for tag in paper.tags %}
+                    <span class="paper-tag">{{ tag }}</span>
+                {% endfor %}
+            </p>
+        </div>  
+    </li>
+    {% endfor %}
+</ul>

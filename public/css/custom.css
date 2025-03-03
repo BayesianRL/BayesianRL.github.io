@@ -24,3 +24,38 @@
         width: 100%;
     }   
 }
+
+.papers-list{
+    list-style-type: none;
+}
+
+.papers-item{
+    background-color: #fefefe;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+    border-radius: 0.4rem;
+}
+.paper-tag{
+    background-color: #eee;
+    padding: 0.3rem;
+    font-size: 0.6rem;
+    font-weight: bold;
+}
+.paper-authors{
+    font-size: 0.75rem;
+}
+.search-tag{
+    cursor: pointer;
+    -moz-user-select: none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+.search-tag[data-active="true"]{
+    background-color: #2d2d2d;
+    color: white;
+}
