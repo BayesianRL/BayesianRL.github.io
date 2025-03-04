@@ -10,6 +10,11 @@
         "img" : "public/img/books/bishop.jpg"
     },
     {
+        "title": "Probabilistic Graphical Models: Principles and Techniques",
+        "authors" : "Daphne Koller, Nir Friedman",
+        "img" : "public/img/books/koller.jpg"
+    },
+    {
         "title": "Information Theory, Inference and Learning Algorithms",
         "authors" : "David J. C. MacKay",
         "img" : "public/img/books/information.jpg"
@@ -53,6 +58,11 @@
         "title": "Calculus of Variations and Optimal Control Theory: A Concise Introduction",
         "authors" : "Daniel Liberzon",
         "img" : "public/img/books/CVOC.jpg"
+    },
+    {
+        "title": "Introduction to Nonlinear Control: Stability, Control Design, and Estimation",
+        "authors" : " Christopher M. Kellett, Philipp Braun",
+        "img" : "public/img/books/kellet.jpg"
     },
     {
         "title": "Active Inference: The Free Energy Principle in Mind, Brain, and Behavior",

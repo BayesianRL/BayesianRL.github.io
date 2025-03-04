@@ -55,12 +55,15 @@
     padding: 0.3rem;
     font-size: 0.6rem;
     font-weight: bold;
+    display: inline-block;
+    
 }
 .paper-authors{
     font-size: 0.75rem;
 }
 .search-tag{
     cursor: pointer;
+    
     -moz-user-select: none;
    -khtml-user-select: none;
    -webkit-user-select: none;

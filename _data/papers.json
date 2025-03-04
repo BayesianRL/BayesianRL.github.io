@@ -20,6 +20,26 @@
         ]
     },
     {
+        "title": "Gaussian processes for dynamics learning in model predictive control",
+        "authors": "Anna Scampicchio, Elena Arcari, Amon Lahr, Melanie N. Zeilinger",
+        "year": "2025",
+        "link": "https://arxiv.org/abs/2502.02310",
+        "tags": [
+            "Model Predictive Control",
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Boosting MCTS with Free Energy Minimization",
+        "authors": "Mawaba Pascal Dao, Adrian M. Peter",
+        "year": "2025",
+        "link": "https://arxiv.org/abs/2501.13083",
+        "tags": [
+            "Reinforcement Learning",
+            "Active Inference"
+        ]
+    },
+    {
         "title": "Turing.jl: a general-purpose probabilistic programming language",
         "authors": "Tor Erlend Fjelde, Kai Xu, David Widmann, Mohamed Tarek, Cameron Pfiffer, Martin Trapp, Seth D. Axen, Xianda Sun, Markus Hauru, Penelope Yong, Will Tebbutt, Zoubin Ghahramani, Hong Ge",
         "year": "2025",
@@ -39,6 +59,15 @@
         ]
     },
     {
+        "title": "The Elements of Differentiable Programming",
+        "authors": "Mathieu Blondel, Vincent Roulet",
+        "year": "2024",
+        "link": "https://arxiv.org/abs/2403.14606",
+        "tags": [
+            "Differentiable Programming"
+        ]
+    },
+    {
         "title": "Inference Plans for Hybrid Particle Filtering",
         "authors": "Ellie Y. Cheng, Eric Atkinson, Guillaume Baudart, Louis Mandel, Michael Carbin",
         "year": "2024",
@@ -47,6 +76,25 @@
             "Approximate Inference",
             "Probabilistic Programming",
             "Monte Carlo"
+        ]
+    },
+    {
+        "title": "Discrete Probabilistic Inference as Control in Multi-path Environments",
+        "authors": "Tristan Deleu, Padideh Nouri, Nikolay Malkin, Doina Precup, Yoshua Bengio",
+        "year": "2024",
+        "link": "https://arxiv.org/abs/2402.10309",
+        "tags": [
+            "Reinforcement Learning",
+            "Approximate Inference"
+        ]
+    },
+    {
+        "title": "Belief sharing: a blessing or a curse",
+        "authors": "Ozan Catal, Toon Van de Maele, Riddhi J. Pitliya, Mahault Albarracin, Candice Pattisapu, Tim Verbelen",
+        "year": "2024",
+        "link": "https://arxiv.org/abs/2407.02465",
+        "tags": [
+            "Active Inference"
         ]
     },
     {
@@ -108,7 +156,8 @@
         "link": "https://arxiv.org/abs/2407.20287",
         "tags": [
             "Approximate Inference",
-            "Variational Inference"
+            "Variational Inference",
+            "Particle-Based Inference"
         ]
     },
     {
@@ -118,7 +167,8 @@
         "link": "https://arxiv.org/abs/2407.09186",
         "tags": [
             "Approximate Inference",
-            "Variational Inference"
+            "Variational Inference",
+            "Particle-Based Inference"
         ]
     },
     {
@@ -128,7 +178,8 @@
         "link": "https://arxiv.org/abs/2407.00649",
         "tags": [
             "Approximate Inference",
-            "Variational Inference"
+            "Variational Inference",
+            "Particle-Based Inference"
         ]
     },
     {
@@ -190,12 +241,43 @@
         ]
     },
     {
+        "title": "Automatic Rao-Blackwellization for Sequential Monte Carlo with Belief Propagation",
+        "authors": "Wa\\u00efss Azizian, Guillaume Baudart, Marc Lelarge",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2312.09860",
+        "tags": [
+            "Approximate Inference",
+            "Monte Carlo",
+            "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Automatically Marginalized MCMC in Probabilistic Programming",
+        "authors": "Jinlin Lai, Javier Burroni, Hui Guan, Daniel Sheldon",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2302.00564",
+        "tags": [
+            "Probabilistic Programming",
+            "Monte Carlo",
+            "Approximate Inference"
+        ]
+    },
+    {
         "title": "Probabilistic Inference in Reinforcement Learning Done Right",
         "authors": "Jean Tarbouriech, Tor Lattimore, Brendan O'Donoghue",
         "year": "2023",
         "link": "https://arxiv.org/abs/2311.13294",
         "tags": [
             "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Collective behavior from surprise minimization",
+        "authors": "Conor Heins, Beren Millidge, Lancelot da Costa, Richard Mann, Karl Friston, Iain Couzin",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2307.14804",
+        "tags": [
+            "Active Inference"
         ]
     },
     {
@@ -247,6 +329,16 @@
         ]
     },
     {
+        "title": "Amortized Variational Inference: When and Why?",
+        "authors": "Charles C. Margossian, David M. Blei",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2307.11018",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference"
+        ]
+    },
+    {
         "title": "RxInfer: A Julia package for reactive real-time Bayesian inference",
         "authors": "Dmitry V. Bagaev, Albert Podusenko, Bert de Vries",
         "year": "2023",
@@ -267,10 +359,31 @@
         ]
     },
     {
+        "title": "A Variational Perspective on Generative Flow Networks",
+        "authors": "Heiko Zimmermann, Fredrik Lindsten, Jan-Willem van de Meent, Christian A. Naesseth",
+        "year": "2022",
+        "link": "https://arxiv.org/abs/2210.07992",
+        "tags": [
+            "Reinforcement Learning",
+            "Approximate Inference",
+            "Variational Inference"
+        ]
+    },
+    {
         "title": "De-Sequentialized Monte Carlo: a parallel-in-time particle smoother",
         "authors": "Adrien Corenflos, Nicolas Chopin, Simo S채rkk채",
         "year": "2022",
         "link": "https://arxiv.org/abs/2202.02264",
+        "tags": [
+            "Approximate Inference",
+            "Monte Carlo"
+        ]
+    },
+    {
+        "title": "Second Order Ensemble Langevin Method for Sampling and Inverse Problems",
+        "authors": "Ziming Liu, Andrew M. Stuart, Yixuan Wang",
+        "year": "2022",
+        "link": "https://arxiv.org/abs/2208.04506",
         "tags": [
             "Approximate Inference",
             "Monte Carlo"
@@ -306,10 +419,49 @@
         ]
     },
     {
+        "title": "Sample-efficient reinforcement learning using deep Gaussian processes",
+        "authors": "Charles Gadd, Markus Heinonen, Harri L\\ucc44hdesm\\ucc44ki, Samuel Kaski",
+        "year": "2020",
+        "link": "https://arxiv.org/abs/2011.01226",
+        "tags": [
+            "Reinforcement Learning",
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Bayesian Neural Ordinary Differential Equations",
+        "authors": "Raj Dandekar, Karen Chung, Vaibhav Dixit, Mohamed Tarek, Aslan Garcia-Valadez, Krishna Vishal Vemula, Chris Rackauckas",
+        "year": "2020",
+        "link": "https://arxiv.org/abs/2012.07244",
+        "tags": [
+            "Latent ODE/PDE",
+            "Differentiable Programming"
+        ]
+    },
+    {
         "title": "Reactive Probabilistic Programming",
         "authors": "Guillaume Baudart, Louis Mandel, Eric Atkinson, Benjamin Sherman, Marc Pouzet, Michael Carbin",
         "year": "2019",
         "link": "https://arxiv.org/abs/1908.07563",
+        "tags": [
+            "Approximate Inference",
+            "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro",
+        "authors": "Du Phan, Neeraj Pradhan, Martin Jankowiak",
+        "year": "2019",
+        "link": "https://arxiv.org/abs/1912.11554",
+        "tags": [
+            "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Gen: a general-purpose probabilistic programming system with programmable inference",
+        "authors": "Marco F. Cusumano-Towner, Feras A. Saad, Alexander K. Lew, Vikash K. Mansinghka",
+        "year": "2019",
+        "link": "https://dl.acm.org/doi/10.1145/3314221.3314642",
         "tags": [
             "Approximate Inference",
             "Probabilistic Programming"
@@ -326,12 +478,30 @@
         ]
     },
     {
+        "title": "Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support",
+        "authors": "Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth",
+        "year": "2019",
+        "link": "https://arxiv.org/abs/1910.13324",
+        "tags": [
+            "Probabilistic Programming"
+        ]
+    },
+    {
         "title": "Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review",
         "authors": "Sergey Levine",
         "year": "2018",
         "link": "https://arxiv.org/abs/1805.00909",
         "tags": [
             "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "An Introduction to Probabilistic Programming",
+        "authors": "Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood",
+        "year": "2018",
+        "link": "https://arxiv.org/abs/1809.10756",
+        "tags": [
+            "Probabilistic Programming"
         ]
     },
     {
@@ -350,6 +520,54 @@
         "link": "https://arxiv.org/abs/1811.01132",
         "tags": [
             "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model",
+        "authors": "At\\u0131l\\u0131m G\\u00fcne\\u015f Baydin, Lukas Heinrich, Wahid Bhimji, Lei Shao, Saeid Naderiparizi, Andreas Munk, Jialin Liu, Bradley Gram-Hansen, Gilles Louppe, Lawrence Meadows, Philip Torr, Victor Lee, Prabhat, Kyle Cranmer, Frank Wood",
+        "year": "2018",
+        "link": "https://arxiv.org/abs/1807.07706",
+        "tags": [
+            "Probabilistic Programming",
+            "Approximate Inference"
+        ]
+    },
+    {
+        "title": "Automated learning with a probabilistic programming language: Birch",
+        "authors": "Lawrence M. Murray, Thomas B. Sch\\u00f6n",
+        "year": "2018",
+        "link": "https://arxiv.org/abs/1810.01539",
+        "tags": [
+            "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Reinforcement Learning with Deep Energy-Based Policies",
+        "authors": "Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, Sergey Levine",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1702.08165",
+        "tags": [
+            "Reinforcement Learning",
+            "Energy-Based Models"
+        ]
+    },
+    {
+        "title": "Delayed Sampling and Automatic Rao-Blackwellization of Probabilistic Programs",
+        "authors": "Lawrence M. Murray, Daniel Lund\\u00e9n, Jan Kudlicka, David Broman, Thomas B. Sch\\u00f6n",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1708.07787",
+        "tags": [
+            "Probabilistic Programming",
+            "Monte Carlo"
+        ]
+    },
+    {
+        "title": "Exact Bayesian inference by symbolic disintegration",
+        "authors": "Chung-chieh Shan, Norman Ramsey",
+        "year": "2017",
+        "link": "https://dl.acm.org/doi/10.1145/3093333.3009852",
+        "tags": [
+            "Probabilistic Programming",
         ]
     },
     {
@@ -383,6 +601,15 @@
         ]
     },
     {
+        "title": "Design and Implementation of Probabilistic Programming Language Anglican",
+        "authors": "David Tolpin, Jan Willem van de Meent, Hongseok Yang, Frank Wood",
+        "year": "2016",
+        "link": "https://arxiv.org/abs/1608.05263",
+        "tags": [
+            "Probabilistic Programming"
+        ]
+    },
+    {
         "title": "Langevin and Hamiltonian based Sequential MCMC for Efficient Bayesian Filtering in High-dimensional Spaces",
         "authors": "Francois Septier, Gareth W. Peters",
         "year": "2015",
@@ -398,6 +625,68 @@
         "link": "https://arxiv.org/abs/1507.08050",
         "tags": [
             "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Variational Inference with Normalizing Flows",
+        "authors": "Danilo Jimenez Rezende, Shakir Mohamed",
+        "year": "2015",
+        "link": "https://arxiv.org/abs/1505.05770",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference"
+        ]
+    },
+    {
+        "title": "Reinforced variational inference",
+        "authors": "Weber, Theophane, Nicolas Heess, Ali Eslami, John Schulman, David Wingate, and David Silver",
+        "year": "2015",
+        "link": "https://www.davidsilver.uk/wp-content/uploads/2020/03/viral.pdf",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Auto-Encoding Variational Bayes",
+        "authors": "Diederik P Kingma, Max Welling",
+        "year": "2013",
+        "link": "https://arxiv.org/abs/1312.6114",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference"
+        ]
+    },
+    {
+        "title": "Expectation Propagation for approximate Bayesian inference",
+        "authors": "Thomas P. Minka",
+        "year": "2013",
+        "link": "https://arxiv.org/abs/1301.2294",
+        "tags": [
+            "Approximate Inference",
+            "Expectation Propagation"
+        ]
+    },
+    {
+        "title": "The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo",
+        "authors": "Matthew D. Hoffman, Andrew Gelman",
+        "year": "2011",
+        "link": "https://arxiv.org/abs/1111.4246",
+        "tags": [
+            "Approximate Inference",
+            "Monte Carlo"
+        ]
+    },
+    {
+        "title": "Particle markov chain monte carlo methods.",
+        "authors": "Andrieu, Christophe, Arnaud Doucet, and Roman Holenstein",
+        "year": "2010",
+        "link": "https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-9868.2009.00736.x?casa_token=ZsgT22LLZfoAAAAA:0K5dFsDRY8yjXpLyNWQTyN9nNelOt_TQlw84yMyY3fm020JapcSvUC9Kolgx8rF4jSiKRjBx36YfmA",
+        "tags": [
+            "Approximate Inference",
+            "Monte Carlo",
+            "Particle-Based Inference"
         ]
     }
 ]
