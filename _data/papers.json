@@ -241,6 +241,24 @@
         ]
     },
     {
+        "title": "Actually Sparse Variational Gaussian Processes",
+        "authors": "Harry Jake Cunningham, Daniel Augusto de Souza, So Takao, Mark van der Wilk, Marc Peter Deisenroth",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2304.05091",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Thin and Deep Gaussian Processes",
+        "authors": "Daniel Augusto de Souza, Alexander Nikitin, ST John, Magnus Ross, Mauricio A. \\u00c1lvarez, Marc Peter Deisenroth, Jo\\u00e3o P. P. Gomes, Diego Mesquita, C\\u00e9sar Lincoln C. Mattos",
+        "year": "2023",
+        "link": "https://arxiv.org/abs/2310.11527",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Automatic Rao-Blackwellization for Sequential Monte Carlo with Belief Propagation",
         "authors": "Wa\\u00efss Azizian, Guillaume Baudart, Marc Lelarge",
         "year": "2023",
@@ -315,7 +333,8 @@
         "link": "https://research.tue.nl/files/313860204/20231219_Bagaev_hf.pdf",
         "tags": [
             "Probabilistic Programming",
-            "Approximate Inference"
+            "Approximate Inference",
+            "Belief Propagation"
         ]
     },
     {
@@ -449,6 +468,15 @@
         ]
     },
     {
+        "title": "Deep Gaussian Processes with Importance-Weighted Variational Inference",
+        "authors": "Hugh Salimbeni, Vincent Dutordoir, James Hensman, Marc Peter Deisenroth",
+        "year": "2019",
+        "link": "https://arxiv.org/abs/1905.05435",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro",
         "authors": "Du Phan, Neeraj Pradhan, Martin Jankowiak",
         "year": "2019",
@@ -493,6 +521,26 @@
         "link": "https://arxiv.org/abs/1805.00909",
         "tags": [
             "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Meta Reinforcement Learning with Latent Variable Gaussian Processes",
+        "authors": "Steind\\u00f3r S\\u00e6mundsson, Katja Hofmann, Marc Peter Deisenroth",
+        "year": "2018",
+        "link": "https://arxiv.org/abs/1803.07551",
+        "tags": [
+            "Gaussian Process",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Continuous-time Gaussian process motion planning via probabilistic inference",
+        "authors": "Mukadam M, Dong J, Yan X, Dellaert F, Boots B",
+        "year": "2018",
+        "link": "https://journals.sagepub.com/doi/full/10.1177/0278364918790369",
+        "tags": [
+            "Reinforcement Learning",
+            "Gaussian Process"
         ]
     },
     {
@@ -542,6 +590,34 @@
         ]
     },
     {
+        "title": "Data-Efficient Reinforcement Learning with Probabilistic Model Predictive Control",
+        "authors": "Sanket Kamthe, Marc Peter Deisenroth",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1706.06491",
+        "tags": [
+            "Gaussian Process",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Identification of Gaussian Process State Space Models",
+        "authors": "Stefanos Eleftheriadis, Thomas F.W. Nicholson, Marc Peter Deisenroth, James Hensman",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1705.10888",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "The reparameterization trick for acquisition functions",
+        "authors": "James T. Wilson, Riccardo Moriconi, Frank Hutter, Marc Peter Deisenroth",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1712.00424",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Reinforcement Learning with Deep Energy-Based Policies",
         "authors": "Tuomas Haarnoja, Haoran Tang, Pieter Abbeel, Sergey Levine",
         "year": "2017",
@@ -559,6 +635,15 @@
         "tags": [
             "Probabilistic Programming",
             "Monte Carlo"
+        ]
+    },
+    {
+        "title": "Doubly Stochastic Variational Inference for Deep Gaussian Processes",
+        "authors": "Hugh Salimbeni, Marc Deisenroth",
+        "year": "2017",
+        "link": "https://arxiv.org/abs/1705.08933",
+        "tags": [
+            "Gaussian Process"
         ]
     },
     {
@@ -610,6 +695,24 @@
         ]
     },
     {
+        "title": "Distributed Gaussian Processes",
+        "authors": "Marc Peter Deisenroth, Jun Wei Ng",
+        "year": "2015",
+        "link": "https://arxiv.org/abs/1502.02843",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Gaussian Processes for Data-Efficient Learning in Robotics and Control",
+        "authors": "Marc Peter Deisenroth, Dieter Fox, Carl Edward Rasmussen",
+        "year": "2015",
+        "link": "https://arxiv.org/abs/1502.02860",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Langevin and Hamiltonian based Sequential MCMC for Efficient Bayesian Filtering in High-dimensional Spaces",
         "authors": "Francois Septier, Gareth W. Peters",
         "year": "2015",
@@ -649,6 +752,25 @@
         ]
     },
     {
+        "title": "Manifold Gaussian Processes for Regression",
+        "authors": "Roberto Calandra, Jan Peters, Carl Edward Rasmussen, Marc Peter Deisenroth",
+        "year": "2014",
+        "link": "https://arxiv.org/abs/1402.5876",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Approximate real-time optimal control based on sparse Gaussian process models",
+        "authors": "Joschka Boedecker, Jost Tobias Springenberg, Jan Wülfing, Martin Riedmiller",
+        "year": "2014",
+        "link": "https://ieeexplore.ieee.org/document/7010608",
+        "tags": [
+            "Approximate Inference",
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Auto-Encoding Variational Bayes",
         "authors": "Diederik P Kingma, Max Welling",
         "year": "2013",
@@ -669,6 +791,34 @@
         ]
     },
     {
+        "title": "Expectation Propagation in Gaussian Process Dynamical Systems: Extended Version",
+        "authors": "Marc Peter Deisenroth, Shakir Mohamed",
+        "year": "2012",
+        "link": "https://arxiv.org/abs/1207.2940",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "PILCO: A model-based and data-efficient approach to policy search",
+        "authors": "Marc Peter Deisenroth, Carl Edward Rasmussen",
+        "year": "2011",
+        "link": "http://aiweb.cs.washington.edu/research/projects/aiweb/media/papers/tmpZj4RyS.pdf",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Optimal Reinforcement Learning for Gaussian Systems",
+        "authors": "Philipp Hennig",
+        "year": "2011",
+        "link": "https://arxiv.org/abs/1106.0800",
+        "tags": [
+            "Gaussian Process",
+            "Reinforcement Learning"
+        ]
+    },
+    {
         "title": "The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo",
         "authors": "Matthew D. Hoffman, Andrew Gelman",
         "year": "2011",
@@ -679,7 +829,7 @@
         ]
     },
     {
-        "title": "Particle markov chain monte carlo methods.",
+        "title": "Particle markov chain monte carlo methods",
         "authors": "Andrieu, Christophe, Arnaud Doucet, and Roman Holenstein",
         "year": "2010",
         "link": "https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-9868.2009.00736.x?casa_token=ZsgT22LLZfoAAAAA:0K5dFsDRY8yjXpLyNWQTyN9nNelOt_TQlw84yMyY3fm020JapcSvUC9Kolgx8rF4jSiKRjBx36YfmA",
@@ -687,6 +837,87 @@
             "Approximate Inference",
             "Monte Carlo",
             "Particle-Based Inference"
+        ]
+    },
+    {
+        "title": "Efficient Reinforcement Learning using Gaussian Processes",
+        "authors": "Marc Peter Deisenroth",
+        "year": "2010",
+        "link": "https://publikationen.bibliothek.kit.edu/1000019799",
+        "tags": [
+            "Reinforcement Learning",
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Gaussian process dynamic programming",
+        "authors": "Marc Peter Deisenroth, Carl Edward Rasmussen, Jan Peters",
+        "year": "2009",
+        "link": "https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Neurocomputing-2009-Deisenroth-Preprint_5531[0].pdf",
+        "tags": [
+            "Gaussian Process",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Variational Message Passing",
+        "authors": "John Winn, Christopher M. Bishop",
+        "year": "2005",
+        "link": "https://jmlr.org/papers/v6/winn05a.html",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference"
+        ]
+    },
+    {
+        "title": "Loopy Belief Propagation: Convergence and Effects of Message Errors",
+        "authors": "Alexander T. Ihler, John W. Fisher III, Alan S. Willsky",
+        "year": "2005",
+        "link": "https://jmlr.org/papers/v6/ihler05a.html",
+        "tags": [
+            "Approximate Inference",
+            "Belief Propagation"
+        ]
+    },
+    {
+        "title": "Gaussian Processes in Reinforcement Learning",
+        "authors": "Malte Kuss, Carl E. Rasmussen",
+        "year": "2003",
+        "link": "https://papers.nips.cc/paper_files/paper/2003/hash/7993e11204b215b27694b6f139e34ce8-Abstract.html",
+        "tags": [
+            "Reinforcement Learning",
+            "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Bethe free energy, Kikuchi approximations, and belief propagation algorithms",
+        "authors": "Yedidia, Jonathan S., William T. Freeman, and Yair Weiss",
+        "year": "2001",
+        "link": "https://merl.com/publications/docs/TR2001-16.pdf",
+        "tags": [
+            "Approximate Inference",
+            "Variational Inference",
+            "Belief Propagation"
+        ]
+    },
+    {
+        "title": "Propagation Algorithms for Variational Bayesian Learning",
+        "authors": "Zoubin Ghahramani, Matthew J. Beal",
+        "year": "2000",
+        "link": "https://papers.nips.cc/paper_files/paper/2000/hash/77369e37b2aa1404f416275183ab055f-Abstract.html",
+        "tags": [
+            "Approximate Inference",
+            "Belief Propagation"
+        ]
+    },
+    {
+        "title": "Fusion, propagation, and structuring in belief networks",
+        "authors": "Judea Pearl",
+        "year": "1986",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/000437028690072X",
+        "tags": [
+            "Approximate Inference",
+            "Belief Propagation"
         ]
     }
 ]

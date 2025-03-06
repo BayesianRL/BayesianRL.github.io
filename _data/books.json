@@ -20,9 +20,9 @@
         "img" : "public/img/books/information.jpg"
     },
     {
-        "title": "Gaussian Processes for Machine Learning",
-        "authors" : "Carl Edward Rasmussen, Christopher K. I. Williams",
-        "img" : "public/img/books/gp4ml.jpg"
+        "title": "Information, Physics, and Computation",
+        "authors" : "Marc Mézard, Andrea Montanari",
+        "img" : "public/img/books/IPC.jpg"
     },
     {
         "title": "An Introduction to Sequential Monte Carlo",
@@ -60,9 +60,19 @@
         "img" : "public/img/books/CVOC.jpg"
     },
     {
-        "title": "Introduction to Nonlinear Control: Stability, Control Design, and Estimation",
-        "authors" : " Christopher M. Kellett, Philipp Braun",
-        "img" : "public/img/books/kellet.jpg"
+        "title": "Model Predictive Control: Theory, Computation, and Design",
+        "authors" : "James B. Rawlings, David Q. Mayne, Moritz M. Diehl",
+        "img" : "public/img/books/mpc.jpg"
+    },
+    {
+        "title": "Gaussian Processes for Machine Learning",
+        "authors" : "Carl Edward Rasmussen, Christopher K. I. Williams",
+        "img" : "public/img/books/gp4ml.jpg"
+    },
+    {
+        "title": "Modelling and Control of Dynamic Systems Using Gaussian Process Models",
+        "authors" : "Juš Kocijan",
+        "img" : "public/img/books/gpcontrol.jpg"
     },
     {
         "title": "Active Inference: The Free Energy Principle in Mind, Brain, and Behavior",
