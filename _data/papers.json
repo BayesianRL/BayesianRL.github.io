@@ -378,6 +378,15 @@
         ]
     },
     {
+        "title": "Hierarchical bayesian bandits",
+        "authors": "Joey Hong, Branislav Kveton, Manzil Zaheer, Mohammad Ghavamzadeh",
+        "year": "2022",
+        "link": "https://proceedings.mlr.press/v151/hong22c/hong22c.pdf",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
         "title": "A Variational Perspective on Generative Flow Networks",
         "authors": "Heiko Zimmermann, Fredrik Lindsten, Jan-Willem van de Meent, Christian A. Naesseth",
         "year": "2022",
@@ -409,6 +418,15 @@
         ]
     },
     {
+        "title": "PAC-Bayesian Lifelong Learning For Multi-Armed Bandits",
+        "authors": "Hamish Flynn, David Reeb, Melih Kandemir, Jan Peters",
+        "year": "2022",
+        "link": "https://arxiv.org/abs/2203.03303",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
         "title": "Semi-Symbolic Inference for Efficient Streaming Probabilistic Programming",
         "authors": "Eric Atkinson, Charles Yuan, Guillaume Baudart, Louis Mandel, Michael Carbin",
         "year": "2022",
@@ -423,6 +441,15 @@
         "authors": "Matthew Fellows, Kristian Hartikainen, Shimon Whiteson",
         "year": "2021",
         "link": "https://arxiv.org/abs/2106.05012",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Learning Partially Known Stochastic Dynamics with Empirical PAC Bayes",
+        "authors": "Manuel Haussmann, Sebastian Gerwinn, Andreas Look, Barbara Rakitsch, Melih Kandemir",
+        "year": "2021",
+        "link": "http://proceedings.mlr.press/v130/haussmann21a/haussmann21a.pdf",
         "tags": [
             "Reinforcement Learning"
         ]
@@ -465,6 +492,15 @@
         "tags": [
             "Approximate Inference",
             "Probabilistic Programming"
+        ]
+    },
+    {
+        "title": "Sampling-Free Variational Inference of Bayesian Neural Nets with Variance Backpropagation",
+        "authors": "Manuel Haussmann, Fred A Hamprecht, Melih Kandemir",
+        "year": "2019",
+        "link": "https://arxiv.org/abs/1805.07654",
+        "tags": [
+            "Approximate Inference"
         ]
     },
     {
@@ -686,6 +722,15 @@
         ]
     },
     {
+        "title": "Bayesian Policy Gradient and Actor-Aritic Algorithms",
+        "authors": "Mohammad Ghavamzadeh, Yaakov Engel, Michal Valko",
+        "year": "2016",
+        "link": "https://www.jmlr.org/papers/volume17/10-245/10-245.pdf",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
         "title": "Design and Implementation of Probabilistic Programming Language Anglican",
         "authors": "David Tolpin, Jan Willem van de Meent, Hongseok Yang, Frank Wood",
         "year": "2016",
@@ -761,6 +806,15 @@
         ]
     },
     {
+        "title": "Variational Gaussian Process State-Space Models",
+        "authors": "Roger Frigola, Yutian Chen, Carl E. Rasmussen",
+        "year": "2014",
+        "link": "https://arxiv.org/abs/1406.4905",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Approximate real-time optimal control based on sparse Gaussian process models",
         "authors": "Joschka Boedecker, Jost Tobias Springenberg, Jan Wülfing, Martin Riedmiller",
         "year": "2014",
@@ -768,6 +822,16 @@
         "tags": [
             "Approximate Inference",
             "Gaussian Process"
+        ]
+    },
+    {
+        "title": "Bayesian Inference and Learning in Gaussian Process State-Space Models with Particle MCMC",
+        "authors": "Roger Frigola, Fredrik Lindsten, Thomas B. Sch\\u00f6n, Carl E. Rasmussen",
+        "year": "2013",
+        "link": "https://arxiv.org/abs/1306.2861",
+        "tags": [
+            "Gaussian Process",
+            "Approximate Inference"
         ]
     },
     {
@@ -840,6 +904,15 @@
         ]
     },
     {
+        "title": "Sparse spectrum Gaussian process regression",
+        "authors": "Miguel Lázaro-Gredilla, Joaquin Quiñonero-Candela, Carl Edward Rasmussen, Aníbal R Figueiras-Vidal",
+        "year": "2010",
+        "link": "https://www.jmlr.org/papers/volume11/lazaro-gredilla10a/lazaro-gredilla10a.pdf",
+        "tags": [
+            "Gaussian Process"
+        ]
+    },
+    {
         "title": "Efficient Reinforcement Learning using Gaussian Processes",
         "authors": "Marc Peter Deisenroth",
         "year": "2010",
@@ -856,6 +929,24 @@
         "link": "https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Neurocomputing-2009-Deisenroth-Preprint_5531[0].pdf",
         "tags": [
             "Gaussian Process",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Bayesian Actor-Critic Algorithms",
+        "authors": "Mohammad Ghavamzadeh, Yaakov Engel",
+        "year": "2007",
+        "link": "https://www.academia.edu/download/42845299/Bayesian_Actor-Critic_Algorithms20160219-26008-1cfiqbl.pdf",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Bayesian Policy Gradient Algorithms",
+        "authors": "Mohammad Ghavamzadeh, Yaakov Engel",
+        "year": "2006",
+        "link": "https://papers.nips.cc/paper_files/paper/2006/hash/58aaee7ae94b52697ad3b9275d46ec7f-Abstract.html",
+        "tags": [
             "Reinforcement Learning"
         ]
     },
@@ -877,6 +968,15 @@
         "tags": [
             "Approximate Inference",
             "Belief Propagation"
+        ]
+    },
+    {
+        "title": "Warped Gaussian processes",
+        "authors": "Edward Snelson, Carl Edward Rasmussen, Zoubin Ghahramani",
+        "year": "2004",
+        "link": "https://proceedings.neurips.cc/paper/2003/file/6b5754d737784b51ec5075c0dc437bf0-Paper.pdf",
+        "tags": [
+            "Gaussian Process"
         ]
     },
     {
