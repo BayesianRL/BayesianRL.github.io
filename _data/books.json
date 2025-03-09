@@ -50,6 +50,11 @@
         "img" : "public/img/books/sutton.jpg"
     },
     {
+        "title": "Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions",
+        "authors" : "Warren B. Powell",
+        "img" : "public/img/books/RL_warren.jpg"
+    },
+    {
         "title": "Multi-Agent Reinforcement Learning: Foundations and Modern Approaches",
         "authors" : "Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer",
         "img" : "public/img/books/marl.jpg"
