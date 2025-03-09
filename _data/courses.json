@@ -1,0 +1,150 @@
+[
+    {
+        "title": "Probabilistic Programming",
+        "instructor": "University of British Columbia, Dr. Frank Wood, 2021",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://youtube.com/playlist?list=PLRBUAK6di_6XlF7KAZBPRgcP0zD5sVXcN&si=9hjsRE1bav7vTqbG"
+            },
+            {
+                "label": "📔 book",
+                "link": "https://arxiv.org/abs/1809.10756"
+            }
+        ],
+        "img": "public/img/courses/pp_wood.png"
+    },
+    {
+        "title": "Probabilistic Machine Learning",
+        "instructor": "University of Tübingen, Dr. Philipp Hennig, 2023",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx&si=qivnfDBYjFOu1TOk"
+            }
+        ],
+        "img": "public/img/courses/PML_hennig.png"
+    },
+    {
+        "title": "Probabilistic Reasoning & Machine Learning",
+        "instructor": "TU Dortmund, Prof. Stefan Harmeling, 2022",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://youtube.com/playlist?list=PLzrCXlf6ypbzDYKDchKfM-I9s20mFCL0q&si=IuKihyN1QdWIuY8d"
+            }
+        ],
+        "img": "public/img/courses/PML_harmeling.png"
+    },
+    {
+        "title": "Bayesian Statistics",
+        "instructor": "Virginia Tech, Prof. Scotland Leman, 2023",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/@lemanlectures8611/videos"
+            }
+        ],
+        "img": "public/img/courses/bayesian_leman.png"
+    },
+    {
+        "title": "Reinforcement Learning Theory",
+        "instructor": "Prof. Csaba Szepesvári, University of Alberta, 2022",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC"
+            },
+            {
+                "label": "📔 webpage",
+                "link": "https://rltheory.github.io/"
+            }
+        ],
+        "img": "public/img/courses/RL_theory.png"
+    },
+    {
+        "title": "Reinforcement Learning",
+        "instructor": "Prof. Emma Brunskill, Stanford, 2024",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX"
+            }
+        ],
+        "img": "public/img/courses/RL_stanford.png"
+    },
+    {
+        "title": "Foundations of Reinforcement Learning",
+        "instructor": "Princeton University, Prof. Chi Jin, 2024",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl"
+            },
+            {
+                "label": "📔 webpage",
+                "link": "https://sites.google.com/view/cjin/teaching/ece524"
+            }
+        ],
+        "img": "public/img/courses/RL_princeton.png"
+    },
+    {
+        "title": "Reinforcement Learning",
+        "instructor": "DeepMind, UCL, Dr. Hado van Hasselt",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm"
+            }
+        ],
+        "img": "public/img/courses/RL_deepmind.jpg"
+    },
+    {
+        "title": "Deep Reinforcement Learning",
+        "instructor": "UC Berkeley, Prof. Sergey Levine",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps"
+            }
+        ],
+        "img": "public/img/courses/RL_levine.png"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning",
+        "instructor": "Dr. Stefano V. Albrecht, 2023",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2"
+            },
+            {
+                "label": "📔 book",
+                "link": "http://www.marl-book.com/"
+            }
+        ],
+        "img": "public/img/courses/MARL.png"
+    },
+    {
+        "title": "Advanced Robotics",
+        "instructor": "UC Berkeley, Prof. Pieter Abbeel, 2019",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF&si=LrZXaiXafs6Qj07x"
+            }
+        ],
+        "img": "public/img/courses/Robotics_abbeel.png"
+    },
+    {
+        "title": "Stochastic Control for Finance",
+        "instructor": "Durham University Business School, Prof. Neil Walton",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLGboZ4litMr_TOwUANH-s-uFnczzy2uuW"
+            }
+        ],
+        "img": "public/img/courses/stochastic_control.png"
+    }
+]

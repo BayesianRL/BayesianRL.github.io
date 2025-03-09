@@ -19,6 +19,25 @@ sidebar: true
     </li>
     {% endfor %}
 </ul>
+<h2>Courses</h2>
+<ul class="courses-list">
+    {% for course in site.data.courses %}    
+    <li>
+        <div class="courses-item">
+            <div class="courses-img">
+                <img src="{{ site.baseurl }}{{course.img}}" alt="Image for {{course.title}}">
+            </div>
+            <div class="courses-description">
+                <h3>{{course.title}}</h3>
+                <p>{{course.instructor}}</p>
+                {%for link in course.links %}
+                    <span class="course-tag"><a href="{{link.link}}">{{link.label}}</a></span>
+                {%endfor%}
+            </div>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
 <h2>Papers</h2>
 🔍 Filter by subject <br> 
 {% for tag in site.data.papers-tag %} <span data-active="true" data-content="{{tag.name}}" class="paper-tag search-tag">{{ tag.name }}</span> {% endfor %}
