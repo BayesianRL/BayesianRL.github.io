@@ -65,6 +65,11 @@
         "img" : "public/img/books/CVOC.jpg"
     },
     {
+        "title": "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control",
+        "authors" : "Steven L. Brunton, J. Nathan Kutz",
+        "img" : "public/img/books/brunton.png"
+    },
+    {
         "title": "Model Predictive Control: Theory, Computation, and Design",
         "authors" : "James B. Rawlings, David Q. Mayne, Moritz M. Diehl",
         "img" : "public/img/books/mpc.jpg"

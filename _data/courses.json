@@ -137,6 +137,36 @@
         "img": "public/img/courses/Robotics_abbeel.png"
     },
     {
+        "title": "Control Bootcamp",
+        "instructor": "Steve Brunton",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m"
+            },
+            {
+                "label" :"📔 book",
+                "link" : "http://databookuw.com/"
+            }
+        ],
+        "img": "public/img/courses/brunton_control.png"
+    },
+    {
+        "title": "Data-Driven Control with Machine Learning",
+        "instructor": "Steve Brunton",
+        "links": [
+            {
+                "label": "🎥 lectures",
+                "link": "https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR"
+            },
+            {
+                "label" :"📔 book",
+                "link" : "http://databookuw.com/"
+            }
+        ],
+        "img": "public/img/courses/brunton_data_control.png"
+    },
+    {
         "title": "Stochastic Control for Finance",
         "instructor": "Durham University Business School, Prof. Neil Walton",
         "links": [
