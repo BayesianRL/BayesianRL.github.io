@@ -1,5 +1,14 @@
 [
     {
+        "title": "A unifying framework for generalised Bayesian online learning in non-stationary environments",
+        "authors": "G Duran-Martin, L Sánchez-Betancourt, AY Shestopaloff, K Murphy",
+        "year": "2025",
+        "link": "https://ora.ox.ac.uk/objects/uuid:aedb2201-9f75-49f5-b643-b2e3636fa8a8",
+        "tags": [
+            "Reinforcement Learning"
+        ]
+    },
+    {
         "title": "Least squares variational inference",
         "authors": "Yvann Le Fay, Nicolas Chopin, Simon Barthelmé",
         "year": "2025",
