@@ -50,6 +50,11 @@
         "img" : "public/img/books/sutton.jpg"
     },
     {
+        "title": "Decision Making Under Uncertainty: Theory and Application",
+        "authors" : " Mykel J. Kochenderfer,  Christopher Amato, Girish Chowdhary, Jonathan P. How, Hayley J. Davison Reynolds ",
+        "img" : "public/img/books/decision_under_uncertainty.jpg"
+    },
+    {
         "title": "Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions",
         "authors" : "Warren B. Powell",
         "img" : "public/img/books/RL_warren.jpg"
